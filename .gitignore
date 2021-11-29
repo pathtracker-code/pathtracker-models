@@ -1,0 +1,9 @@
+weights/
+*.out
+detectron2*
+MotionSqueeze/
+*.pyc
+*.swp
+results/
+run_files/
+mainclean_*
